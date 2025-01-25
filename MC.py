@@ -1,3 +1,6 @@
+# Licensed under the GNU GENERAL PUBLIC LICENSE Version 3
+# Copyright (c) 2025 Dartmouth College Bayesian Statistical Modelling Class - Qintong Xie
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
